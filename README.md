@@ -2,7 +2,7 @@
 
 ## Description
 * I did this project with my friends in University. 
-* The Goals of the project is to pass the intellgent systems subject and to design an Expert system using CLIPS 
+* The Goals of the project is to pass the intelligent systems subject and to design an Expert system using CLIPS 
 
 * The decision tree
 
